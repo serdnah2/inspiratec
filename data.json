@@ -1,12 +1,31 @@
 {
   "menu": {
-    "avatar": "https://raw.githubusercontent.com/serdnah2/inspiratec/main/icons/avatar.png",
-    "home": "https://raw.githubusercontent.com/serdnah2/inspiratec/main/icons/home.png",
-    "info": "https://raw.githubusercontent.com/serdnah2/inspiratec/main/icons/info.png",
-    "movie": "https://raw.githubusercontent.com/serdnah2/inspiratec/main/icons/movie.png",
-    "play": "https://raw.githubusercontent.com/serdnah2/inspiratec/main/icons/play.png",
-    "search": "https://raw.githubusercontent.com/serdnah2/inspiratec/main/icons/search.png",
-    "star": "https://raw.githubusercontent.com/serdnah2/inspiratec/main/icons/star.png",
-    "tv": "https://raw.githubusercontent.com/serdnah2/inspiratec/main/icons/tv.png",
+    "avatar": "https://serdnah2.github.io/inspiratec/icons/avatar.png",
+    "home": "https://serdnah2.github.io/inspiratec/icons/home.png",
+    "info": "https://serdnah2.github.io/inspiratec/icons/info.png",
+    "movie": "https://serdnah2.github.io/inspiratec/icons/movie.png",
+    "play": "https://serdnah2.github.io/inspiratec/icons/play.png",
+    "search": "https://serdnah2.github.io/inspiratec/icons/search.png",
+    "star": "https://serdnah2.github.io/inspiratec/icons/star.png",
+    "tv": "https://serdnah2.github.io/inspiratec/icons/tv.png"
+  },
+  "logo": "https://serdnah2.github.io/inspiratec/logo/logo.png",
+  "movies": {
+    "cruella": {
+      "background": "https://serdnah2.github.io/inspiratec/cruella/background.png",
+      "logo": "https://serdnah2.github.io/inspiratec/cruella/logo.png"
+    },
+    "loki": {
+      "background": "https://serdnah2.github.io/inspiratec/loki/background.png",
+      "logo": "https://serdnah2.github.io/inspiratec/loki/logo.png"
+    },
+    "monsters": {
+      "background": "https://serdnah2.github.io/inspiratec/monsters/background.png",
+      "logo": "https://serdnah2.github.io/inspiratec/monsters/logo.png"
+    },
+    "starwars": {
+      "background": "https://serdnah2.github.io/inspiratec/starwars/background.png",
+      "logo": "https://serdnah2.github.io/inspiratec/starwars/logo.png"
+    }
   }
 }
