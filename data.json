@@ -1,12 +1,12 @@
 {
   "menu": {
     "avatar": "https://raw.githubusercontent.com/serdnah2/inspiratec/main/icons/avatar.png",
-    "home": "https://github.com/serdnah2/inspiratec/blob/main/icons/home.png",
-    "info": "https://github.com/serdnah2/inspiratec/blob/main/icons/info.png",
-    "movie": "https://github.com/serdnah2/inspiratec/blob/main/icons/movie.png",
-    "play": "https://github.com/serdnah2/inspiratec/blob/main/icons/play.png",
-    "search": "https://github.com/serdnah2/inspiratec/blob/main/icons/search.png",
-    "star": "https://github.com/serdnah2/inspiratec/blob/main/icons/star.png",
-    "tv": "https://github.com/serdnah2/inspiratec/blob/main/icons/tv.png",
+    "home": "https://raw.githubusercontent.com/serdnah2/inspiratec/blob/main/icons/home.png",
+    "info": "https://raw.githubusercontent.com/serdnah2/inspiratec/blob/main/icons/info.png",
+    "movie": "https://raw.githubusercontent.com/serdnah2/inspiratec/blob/main/icons/movie.png",
+    "play": "https://raw.githubusercontent.com/serdnah2/inspiratec/blob/main/icons/play.png",
+    "search": "https://raw.githubusercontent.com/serdnah2/inspiratec/blob/main/icons/search.png",
+    "star": "https://raw.githubusercontent.com/serdnah2/inspiratec/blob/main/icons/star.png",
+    "tv": "https://raw.githubusercontent.com/serdnah2/inspiratec/blob/main/icons/tv.png",
   }
 }
